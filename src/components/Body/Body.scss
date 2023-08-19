@@ -1,0 +1,18 @@
+.body {
+    width: 80%;
+    margin: 2rem auto;
+}
+
+.filter-btn {
+    border-radius: 0.75rem;
+    background: #fff;
+    padding: 0.5rem;
+    margin-bottom: 1rem;
+    border: 1px solid;
+    cursor: pointer;
+}
+
+.filter-btn:hover {
+    background-color: #fc8019ed;
+    color: #fff;
+}

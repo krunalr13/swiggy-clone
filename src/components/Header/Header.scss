@@ -1,0 +1,28 @@
+.header {
+    height: 6rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0 9rem;
+
+}
+
+.header img {
+    width: 3rem;
+}
+
+.nav-bar {
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+}
+
+.nav-bar li {
+    list-style: none;
+}
+  
+.nav-item {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}

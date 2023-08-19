@@ -1,0 +1,12 @@
+.restaurants-list {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap:2rem;
+    justify-items: center;
+
+    a{
+        text-decoration: none;
+        color: #282c3f;
+    }
+}
+

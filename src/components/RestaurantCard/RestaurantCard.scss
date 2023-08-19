@@ -1,0 +1,17 @@
+.restaurant-image {
+    width: 18rem;
+}
+
+.restaurant-card {
+    cursor: pointer;
+
+    .rating {
+        display: flex;
+        gap: 0.5rem;
+        align-items: center;
+    }
+}
+
+.restaurant-card:hover {
+    transform: scale(0.95);    
+}
